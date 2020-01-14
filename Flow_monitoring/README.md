@@ -64,6 +64,7 @@ http://www.waveshare.net/wiki/2.13inch_e-Paper_HAT_(D)
 1 SSH the raspberry pi 4B
 1.1 help link 
 https://www.raspberrypi.org/documentation/remote-access/ssh/
+Notice: Password of Pi 4B is 4800
 
 2 run vncserver(optional)
 2.1 help link 
